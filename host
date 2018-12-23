@@ -1,0 +1,2 @@
+[dev]
+dev1 ansible_ssh_host=3.16.1.251 ansible_ssh_user=root
